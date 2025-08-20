@@ -136,8 +136,8 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 ## 📞 Suporte
 
 Para dúvidas ou sugestões sobre o site, entre em contato:
-- **E-mail**: contato@cacvi.org.br
-- **Telefone**: (88) 99999-9999
+- **E-mail**: contato@cacvi.org.br / ctpassoapasso@gmail.com
+- **Telefone**: (85) 98934-1714
 
 ---
 
